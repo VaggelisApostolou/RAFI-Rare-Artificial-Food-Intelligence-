@@ -1,7 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import axios from 'axios';
 
-const API_URL = 'http://192.168.137.1:8000'; 
+const API_URL = 'https://rafi-rare-artificial-food-intelligence.onrender.com'; 
 
 const api = axios.create({
   baseURL: API_URL,
