@@ -549,7 +549,7 @@ export default function HomeScreen() {
             <View style={styles.inputHeaderRow}>
               <Text style={styles.inputLabel}>TPOΦH</Text>
               <TouchableOpacity onPress={handleOpenScanner} style={styles.brutalistBtnSmall}>
-                <Text style={styles.btnSmallText}>[ SCAN ]</Text>
+                <Text style={styles.btnSmallText}>[📷]</Text>
               </TouchableOpacity>
             </View>
             
