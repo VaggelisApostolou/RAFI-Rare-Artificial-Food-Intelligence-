@@ -6,15 +6,11 @@ RAFI is a comprehensive, full-stack Android application designed for precise nut
 
 ## 📱 Screenshots
 
-
 <table>
   <tr>
-    <td>Home (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-04-128_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/57a7be7a-f29a-40b8-9020-8c800d62f55e" />
-</b></td>
-    <td>Analytics (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-28-187_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/2d27981e-cf35-42f2-9bff-574fd06a88b8" />
-</b></td>
-    <td>Recipes (Light Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-56-983_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/471162b8-07dd-4bd6-b640-45e83778ed46" />
-</b></td>
+    <td>Home (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-04-128_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/57a7be7a-f29a-40b8-9020-8c800d62f55e](https://github.com/user-attachments/assets/57a7be7a-f29a-40b8-9020-8c800d62f55e)" /></b></td>
+    <td>Analytics (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-28-187_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/2d27981e-cf35-42f2-9bff-574fd06a88b8](https://github.com/user-attachments/assets/2d27981e-cf35-42f2-9bff-574fd06a88b8)" /></b></td>
+    <td>Recipes (Light Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-56-983_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/471162b8-07dd-4bd6-b640-45e83778ed46](https://github.com/user-attachments/assets/471162b8-07dd-4bd6-b640-45e83778ed46)" /></b></td>
   </tr>
 </table>
 
@@ -47,3 +43,30 @@ If you want to run this project locally, follow these steps:
 1. Navigate to the `Backend` directory:
    ```bash
    cd Backend
+   ```
+2. Create a virtual environment and install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+3. Set up your `.env` file with your Supabase database credentials.
+4. Run the FastAPI server:
+   ```bash
+   uvicorn main:app --reload
+   ```
+
+### Frontend Setup
+1. Navigate to the `Frontend` directory:
+   ```bash
+   cd Frontend
+   ```
+2. Install Node.js dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the Expo development server:
+   ```bash
+   npx expo start
+   ```
+4. Use the **Expo Go** app on your phone to scan the QR code and run the app.
