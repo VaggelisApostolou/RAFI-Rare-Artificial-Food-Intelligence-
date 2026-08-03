@@ -8,9 +8,12 @@ RAFI is a comprehensive, full-stack Android application designed for precise nut
 
 <table>
   <tr>
-    <td>Home (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-04-128_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/57a7be7a-f29a-40b8-9020-8c800d62f55e](https://github.com/user-attachments/assets/57a7be7a-f29a-40b8-9020-8c800d62f55e)" /></b></td>
-    <td>Analytics (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-28-187_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/2d27981e-cf35-42f2-9bff-574fd06a88b8](https://github.com/user-attachments/assets/2d27981e-cf35-42f2-9bff-574fd06a88b8)" /></b></td>
-    <td>Recipes (Light Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-56-983_com apostolouprojects Frontend" src="[https://github.com/user-attachments/assets/471162b8-07dd-4bd6-b640-45e83778ed46](https://github.com/user-attachments/assets/471162b8-07dd-4bd6-b640-45e83778ed46)" /></b></td>
+    <td>Home (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-04-128_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/0e575f9c-5e4a-4035-a320-35cdef24c4a9" />
+</b></td>
+    <td>Analytics (Dark Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-28-187_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/2f84d6c8-ac01-4c51-a666-18bf04fdc41e" />
+</b></td>
+    <td>Recipes (Light Mode)<br><br><b><img width="1280" height="2772" alt="Screenshot_2026-08-03-13-36-56-983_com apostolouprojects Frontend" src="https://github.com/user-attachments/assets/cb7d7fc1-37b9-416c-ba25-7d4f36be35e2" />
+</b></td>
   </tr>
 </table>
 
